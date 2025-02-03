@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**iuriJorbenadze/iuriJorbenadze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Python Software Engineer
 
-Here are some ideas to get you started:
+💡 I love building scalable SaaS products, crafting APIs, optimizing databases, and exploring AI-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Technologies I work with:
+- Python | FastAPI | Django
+- PostgreSQL | Redis | Celery
+- Docker | Kubernetes | AWS
+- OpenAI | Google APIs | Selenium
+
+✨ Featured Projects:
+- **My Voice** – AI-powered text-to-speech app for speech-impaired users.
+- **GenesisAI Email Server** – Automated high-deliverability email backend.
+- **AI Email SaaS** – Scalable campaign automation platform.
+
+📫 Let's connect:
+- GitHub: [github.com/iuriJorbenadze](https://github.com/iuriJorbenadze)
+- LinkedIn: [linkedin.com/in/iuri-jorbenadze-6b2895236](https://ge.linkedin.com/in/iuri-jorbenadze-6b2895236)
+
+🔥 Always learning, innovating, and building! 🚀

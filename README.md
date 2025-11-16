@@ -11,6 +11,7 @@
 - OpenAI | Google APIs | Selenium
 
 ✨ Featured Projects:
+- **Premius** — Receipt validation and rewards platform that verifies promo purchases from uploaded receipts using AI.
 - **My Voice** — AI-powered text-to-speech app for people who can not speak.
 - **Pushy** — Push-ups Alarm that makes sure you never oversleep ever again.
 - **GenesisAI Email Server** — Automated high-deliverability email server creation backend.
